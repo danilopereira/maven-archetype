@@ -6,8 +6,8 @@
                     <directory></directory>
                     <includes>
                         <!--<include>.editorconfig</include>-->
-                        <include>__rootArtifactId__-common/.gitignore</include>
-                        <include>__rootArtifactId__-common/pom.xml</include>
+                        <include>.gitignore</include>
+                        <include>pom.xml</include>
                     </includes>
                 </fileSet>
                 <fileSet filtered="true">
@@ -36,8 +36,8 @@
                     <directory></directory>
                     <includes>
                         <!--<include>.editorconfig</include>-->
-                        <include>__rootArtifactId__-persistence/.gitignore</include>
-                        <include>__rootArtifactId__-persistence/pom.xml</include>
+                        <include>.gitignore</include>
+                        <include>pom.xml</include>
                     </includes>
                 </fileSet>
                 <fileSet filtered="true">
@@ -66,9 +66,9 @@
                     <directory></directory>
                     <includes>
                         <!--<include>.editorconfig</include>-->
-                        <include>__rootArtifactId__-microservices/.gitignore</include>
-                        <include>__rootArtifactId__-microservices/pom.xml</include>
-                        <include>__rootArtifactId__-microservices/application.properties</include>
+                        <include>.gitignore</include>
+                        <include>pom.xml</include>
+                        <include>application.properties</include>
                     </includes>
                 </fileSet>
                 <fileSet filtered="true">
@@ -97,9 +97,9 @@
                     <directory></directory>
                     <includes>
                         <!--<include>.editorconfig</include>-->
-                        <include>__rootArtifactId__-database/.gitignore</include>
-                        <include>__rootArtifactId__-database/pom.xml</include>
-                        <include>__rootArtifactId__-database/application.properties</include>
+                        <include>.gitignore</include>
+                        <include>pom.xml</include>
+                        <include>application.properties</include>
                     </includes>
                 </fileSet>
                 <fileSet filtered="true">
