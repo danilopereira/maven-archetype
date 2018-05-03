@@ -90,6 +90,9 @@
                 </fileSet>
                 <fileSet filtered="true" encoding="UTF-8">
                     <directory>src/main/resources</directory>
+                    <!--<includes>-->
+                        <!--<include>application.properties</include>-->
+                    <!--</includes>-->
                 </fileSet>
                 <fileSet filtered="true">
                     <directory>src/test/java</directory>
@@ -121,6 +124,9 @@
                 </fileSet>
                 <fileSet filtered="true" encoding="UTF-8">
                     <directory>src/main/resources</directory>
+                    <!--<includes>-->
+                        <!--<include>application.properties</include>-->
+                    <!--</includes>-->
                 </fileSet>
                 <fileSet filtered="true">
                     <directory>src/test/java</directory>
