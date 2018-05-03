@@ -1,4 +1,4 @@
-package com.clickbus.cbo.database;/*
+package ${package}.${rootArtifactId};/*
  * Copyright 2012-2015 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -34,7 +34,7 @@ public class FlywayMigrationApplication implements CommandLineRunner {
 	}
 
 	public static void main(String[] args) throws Exception {
-		SpringApplication.run(com.clickbus.cbo.database.FlywayMigrationApplication.class, args);
+		SpringApplication.run(FlywayMigrationApplication.class, args);
 	}
 
 }

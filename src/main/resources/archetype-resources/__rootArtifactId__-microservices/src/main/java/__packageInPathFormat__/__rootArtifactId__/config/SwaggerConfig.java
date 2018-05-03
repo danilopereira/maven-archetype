@@ -1,4 +1,4 @@
-package com.clickbus.platform.cbo.config;
+package ${package}.${rootArtifactId}.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

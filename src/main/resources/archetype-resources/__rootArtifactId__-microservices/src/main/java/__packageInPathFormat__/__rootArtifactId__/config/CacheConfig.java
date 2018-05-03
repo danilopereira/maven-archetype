@@ -1,4 +1,4 @@
-package com.clickbus.platform.cbo.config;
+package ${package}.${rootArtifactId}.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cache.CacheManager;

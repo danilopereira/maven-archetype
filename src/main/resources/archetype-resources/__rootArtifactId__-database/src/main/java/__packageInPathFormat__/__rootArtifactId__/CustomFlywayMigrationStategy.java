@@ -1,4 +1,4 @@
-package com.clickbus.cbo.database;
+package ${package}.${rootArtifactId};
 
 import org.flywaydb.core.Flyway;
 import org.springframework.boot.autoconfigure.flyway.FlywayMigrationStrategy;
